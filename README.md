@@ -64,14 +64,6 @@ Barren plateau — не локальный минимум и не седлова
 
 ---
 
-## Технологии
-
-* [PennyLane](https://github.com/PennyLaneAI/pennylane) — квантовые модели и вычисление градиентов через parameter shift
-* PyTorch — классические сети, автодифференцирование, оптимизация
-* Scikit-learn — датасеты, StandardScaler, SVM для метрик границы
-* Matplotlib / Seaborn — визуализация
-
----
 
 ## Датасеты
 
@@ -211,3 +203,13 @@ VQC_hybrid частично нейтрализует этот эффект: кл
 * Установите необходимые зависимости: PennyLane, PyTorch, Scikit-learn, Matplotlib
 * Откройте ноутбук и выполните все ячейки последовательно
 * Финальная таблица `df_results` содержит все градиентные метрики для анализа
+
+---
+
+## Технологии
+
+* [PennyLane](https://github.com/PennyLaneAI/pennylane) — квантовые модели и вычисление градиентов через parameter shift
+* PyTorch — классические сети, автодифференцирование, оптимизация
+* Scikit-learn — датасеты, StandardScaler, SVM для метрик границы
+* Matplotlib / Seaborn — визуализация
+
